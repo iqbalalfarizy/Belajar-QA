@@ -11,6 +11,7 @@ public class fungsi {
         nama("iqbal");
         jumlah (x, y);
         jumlah (y, z);
+        jumlah (x, z);
     }
 
 
